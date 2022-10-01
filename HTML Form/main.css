@@ -1,0 +1,27 @@
+.overall {
+    margin: 250px 450px;
+    border: 1px solid black;
+    border-radius: 5px;
+    font-family: 'Lato', serif;
+}
+h1 {
+    text-align: center;
+    padding-top: 10px;
+}
+.first {
+    margin: 20px 0;
+    padding-left: 25px;
+}
+.last {
+    margin: 20px 0;
+    padding-left: 25px;
+}
+.email {
+    margin: 20px 0;
+    padding-left: 50px;
+}
+.submit {
+    margin: 20px 0;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
